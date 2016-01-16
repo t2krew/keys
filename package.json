@@ -1,6 +1,6 @@
 {
   "name": "getkeys",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get Object keys",
   "main": "index.js",
   "directories": {
