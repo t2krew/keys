@@ -5,6 +5,12 @@ get the keys from object
 ```javascript
 'use strict';
 
-let keys = require('keys)
+let keys = require('getkeys');
+let obj = {
+    name : 'krew',
+    sex : 'male'
+}
+
+console.log(keys(obj))    //['name','sex']
 
 ```
